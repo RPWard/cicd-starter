@@ -1,4 +1,4 @@
-![test badge](https://github.com/RPWard/cicd-starter/actions/workflows/ci/badge.svg)
+![test badge](https://github.com/RPWard/cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
